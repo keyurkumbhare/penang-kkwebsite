@@ -1,0 +1,51 @@
+{
+  "Loading": "Ładowanie",
+  "More Posts": "Więcej Postów",
+
+  "Recent Posts": "Poprzednie Posty",
+  "Featured Post": "Polecane Posty",
+  "Page Not Found": "Strona nie została znaleziona",
+  "Load Comments": "Wczytaj Komentarze",
+  "You might also like": "Może ci się spodobać",
+  "Tags": "Tagi",
+  "Authors": "Autorzy",
+  "Navigation": "Navigacja",
+  "Published with {ghostLink} & {themeLink}": "Opublikowano z {ghostLink} & {themeLink}.",
+
+  "Share on Twitter": "Udostępnij na Twitterze",
+  "Share on Facebook": "Udostępnij na Facebook",
+  "Share on LinkedIn": "Udostępnij na LinkedIn",
+  "Share on Pinterest": "Udostępnij na Pinterest",
+  "Share via Email": "Udostępnij przez e-mail",
+  "Copy link": "Skopiuj link",
+  "Link copied to clipboard": "Link skopiowano do schowka",
+
+  "Comments": "Comentários",
+  "Enable dark mode": "Włącz tryb ciemny",
+
+  "Paid": "Płatne",
+  "Members": "Członkowie",
+  "Public": "Publiczne",
+
+  "Account": "Konto",
+  "Log in": "Zaloguj",
+  "Subscribe": "Subskrybuj",
+  "Your email address": "Twój adres e-mail",
+  "Please check your inbox and click the link to complete the login.": "Proszę sprawdzić swoją skrzynkę odbiorczą i kliknąć na link, aby dokończyć logowanie.",
+  "Please check your inbox and click the link to confirm your subscription.": "Proszę sprawdzić swoją skrzynkę odbiorczą i kliknąć na link, aby potwierdzić subskrypcję.",
+  "Please enter a valid email address!": "Proszę wpisać prawidłowy adres e-mail!",
+  "An error occurred, please try again later.": "Wystąpił błąd, proszę spróbować ponownie później.",
+
+  "Already have an account?": "Masz już konto?",
+  "Don't have an account yet?": "Nie masz jeszcze konta?",
+
+  "This post is for paying subscribers only": "Ten post jest dostępna wyłącznie dla płatnych subskrybentów",
+  "This post is for subscribers only": "Ten post jest dostępna tylko dla subskrybentów",
+  "This post is for subscribers on the ": "Ten post jest przeznaczony dla subskrybentów na ",
+  "This page is for paying subscribers only": "Ta strona jest dostępna wyłącznie dla płatnych subskrybentów",
+  "This page is for subscribers only": "Ta strona jest dostępna tylko dla subskrybentów",
+  "This page is for subscribers on the ": "Ta strona jest przeznaczona dla subskrybentów na ",
+  "Upgrade your account": "Hesabınızı yükseltin",
+
+  "Join the newsletter to receive the latest updates in your inbox.": "Dołącz do newslettera, aby otrzymywać najnowsze informacje na swoją skrzynkę pocztową."
+}
